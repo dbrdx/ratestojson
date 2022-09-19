@@ -8,4 +8,4 @@ with open("sample.json", "w") as outfile:
 
 while True:
     time.sleep(1)
-    print("ss")
+    print("Kyrylo LOX")
