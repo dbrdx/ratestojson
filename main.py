@@ -8,4 +8,4 @@ with open("sample.json", "w") as outfile:
 
 while True:
     time.sleep(1)
-    print("Kyrylo LOX")
+    print("Katja LOX")
